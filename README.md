@@ -11,3 +11,7 @@ docker run --name postgresql \
   -p 54322:5432 \
   -d postgres:latest
 ```
+
+
+Docs:  
+[Hibernate Annotations](docs/Annotations.md)
